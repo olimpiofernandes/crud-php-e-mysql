@@ -24,7 +24,9 @@
   <a href="#license">License</a>
 </p>
 
+<p align="center">
 ![screenshot](https://i.ibb.co/znCv7WT/list-contacts.png)
+</p>
 
 ## Key Features
 
