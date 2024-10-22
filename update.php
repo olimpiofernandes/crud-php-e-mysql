@@ -1,3 +1,5 @@
+// Script php para update SQL
+
 <?php
 //importando arquivo functions.php de dentro da pasta funcs
 include 'funcs/functions.php';
